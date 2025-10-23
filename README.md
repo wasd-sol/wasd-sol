@@ -2,7 +2,7 @@
 
 I'm a Backend Developer passionate about building reliable and scalable applications.
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif)
 
 ## 🔭 Currently Deepening Knowledge In
 - .NET and ASP.NET projects
@@ -18,3 +18,7 @@ I'm a Backend Developer passionate about building reliable and scalable applicat
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wasd-sol&show_icons=true&theme=radical)
+
+## 🎮 GitHub Snake
+Watch my GitHub Snake crawl through my commits!  
+[Check it on my profile](https://github.com/wasd-sol)
